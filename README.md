@@ -1,4 +1,4 @@
-# ComputerGraphics
+# ComputerGraphics using CNN
 
 - Google Colab
 - tensorflow keras
